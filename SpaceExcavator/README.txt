@@ -4,15 +4,7 @@ CONTACT: RECHEVERRIA04@CSU.FULLERTON.EDU
 CWID: 891720195
 AUTHOR: RICHARD ECHEVERRIA
 This program was built to create a video game space shooter when you shoot down asteroids in order to excavate power stars. According to legend you need to collect 7 power stars to make your wildest dreams come true. Power Stars reside within asteroids, but sometimes they can contain hibernating aliens who will attack when awoken during slumber. Play now, and realize your dreams come to reality. 
-FILES INCLUDED								            ------------------------
-SpaceExcavator.py
-SpaceExcavatorSummary.pdf											           
-IMAGES FOLDER:
-Samus.png										                     Rock.png	        		                                                                                          Explosionpurple.png							                                                      Space.jpg   										 Menuscreen.jpg										 victorypage.jpg										 sonicexplosion(00,01,02,03,04,05,06,07,and 08).png	 regularexplosion(00,02,03,04,05,06,07,08, and 09).png		          meteorbrown_tiny1.png							    meteorbrown_small1.png								 meteorbrown_small2.png								 meteorbrown_med1.png								 meteorbrown_big1.png								 meteorbrown_big2.png							   	 meteorbrown_big3.png					                                   laserred16.png									              alien.png											 star.png										           boost.png											
-SOUNDS FOLDER:
-Menu.wav      									                                Gameplay.wav							                                                                Gameover.wav										                        Select.wav									                                       Crash.wav											                    pew.wav											       pow4.wav										          expl3.wav											                               expl6.wav											  pow5.wav											 starget.wav										         victory.wav
-FONT FOLDER:
-Space_invaders.ttf
+
 
 RUNNING THE GAME:
 This program was created in the Gedit text editor and under the Python 2.7.12 language
