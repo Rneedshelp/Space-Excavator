@@ -41,12 +41,20 @@ CONTRIBUTES AND REFERENCES:
 All images and sounds belong to Nintendo, and I hold no ownership of any of these images or sounds.
 The making of this program was helped largely to learning pygame and looking up tutorials online on how to use pygame.
 Some third party materials that helped me understand pygame and implanting functions are:
+
 Stackoverflow.com
+
 Nerdparadise.com
+
 Pygame.org
+
 https://www.youtube.com/user/sentdex - Great tutorials on pygame for beginners 
+
 https://www.youtube.com/user/KidsCanCode  
+
 http://www.starfox-online.net/Media/sfx-sf64/
+
 http://www.soundboard.com/sb/Star_Fox_64
+
 https://www.spriters-resource.com/
 
