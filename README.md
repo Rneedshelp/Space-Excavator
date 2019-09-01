@@ -38,9 +38,9 @@ your computer to have full access to the files.
 
 
 CONTRIBUTES AND REFERENCES:
-All images and sounds belong to Nintendo, and I hold no ownership of any of these images or sounds.
+Respective images and sounds belong to Nintendo, and I hold no ownership to any of these images or sounds.
 The making of this program was helped largely to learning pygame and looking up tutorials online on how to use pygame.
-Some third party materials that helped me understand pygame and implanting functions are:
+Some third party materials that helped me understand pygame and implementing functions are:
 
 Stackoverflow.com
 
