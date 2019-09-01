@@ -1,7 +1,5 @@
 # Space-Excavator
-﻿README.TXT INFO									                                       -----------------------------
-CPSC 386 CSUF PROJECT: VIDEO GAME
-
+﻿README.TXT INFO						
 
 CONTACT: RECHEVERRIA04@CSU.FULLERTON.EDU or RECHEVERRIA04@GMAIL.COM
 
