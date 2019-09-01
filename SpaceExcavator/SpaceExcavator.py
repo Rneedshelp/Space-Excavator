@@ -45,7 +45,7 @@ def intro():
 	for i in range(100):
 		screen.fill(BLACK)
 		fontsize = pygame.font.Font('/home/linuxstudent/SpaceExcavator/Fonts/space_invaders.ttf',30)
-		TextSurf, TextRect = text_objects('CPSC 386 Project 5 Video Game',fontsize,SILVER)
+		TextSurf, TextRect = text_objects('A Certain Program from R.E',fontsize,SILVER)
 		TextRect.center = ((390),(i))
 		screen.blit(TextSurf,TextRect)
 		TextSurf, TextRect = text_objects('Richard Echeverria Presents:',fontsize,SILVER)
